@@ -1,6 +1,6 @@
 #include <SoftwareSerial.h>
-
-SoftwareSerial bluetooth(10, 11); // RX, TX //declaration of receiving pin and transmitting pin of serial data of bluetooth
+ //declaration of receiving pin and transmitting pin of serial data of bluetooth
+SoftwareSerial bluetooth(10, 11); // RX, TX
 int buzzer = 8;// defined pin where buzzer is attached
 int BluetoothData;
 
@@ -28,7 +28,7 @@ void loop() {
 
     if (BluetoothData == '0')
     {
-      digitalWrite(buzzer, 0);// if received data is '1' make buzzer pin low
+      digitalWrite(buzzer, 0);// if received data is '0' make buzzer pin low
       
       Serial.println("BUZZER OFF");
     }
