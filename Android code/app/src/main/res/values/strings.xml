@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FoundYou Chip</string>
+
+    <string name="welcome">Welcome to</string>
+
+    <string name="application">Application</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_next2">FoundYou Chip</string>
+
+    <string name="title">Searching...</string>
+
+    <string name="search">Find</string>
+
+    <string name="sound">Sound</string>
+
+    <string name="find">Show signal strength</string>
+
+    <string name="button_send">Next</string>
+
+    <string name="title_activity_next3">FoundYou Chip</string>
+</resources>
