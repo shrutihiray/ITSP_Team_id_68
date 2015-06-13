@@ -19,7 +19,7 @@ import android.widget.Toast;
 
 public class Next2Activity extends ActionBarActivity {
     private Button findBtn;
-   // String text;
+
    private TextView text;
 
     int rssi=0;
@@ -62,7 +62,7 @@ public class Next2Activity extends ActionBarActivity {
     final BroadcastReceiver bReceiver = new BroadcastReceiver() {
 
         public void onReceive(Context context, Intent intent) {
-        //    Toast.makeText(getApplicationContext(), "in onReceive", Toast.LENGTH_SHORT).show();
+
             String action = intent.getAction();
 
             // When discovery finds a device
@@ -78,7 +78,7 @@ public class Next2Activity extends ActionBarActivity {
 
 
                       rssi = intent.getShortExtra(BluetoothDevice.EXTRA_RSSI, Short.MIN_VALUE);
-                    Toast.makeText(getApplicationContext(), "  RSSI: " + rssi + "dBm", Toast.LENGTH_SHORT).show();
+                  //  Toast.makeText(getApplicationContext(), "  RSSI: " + rssi + "dBm", Toast.LENGTH_SHORT).show();
 
                 }
                 text = (TextView) findViewById(R.id.text);
@@ -123,14 +123,13 @@ public class Next2Activity extends ActionBarActivity {
 
          registerReceiver(bReceiver, new IntentFilter(BluetoothDevice.ACTION_FOUND));
 
-        //   startActivity(intent0);
 
 
-        //  }
+
 
     }
     public void FindClicked ( View view) {
-        //  Intent intent = new Intent(this, bluetooth.class);
+
         Intent intent = new Intent(this, Next3Activity.class);
 
         startActivity(intent);
@@ -143,9 +142,8 @@ public class Next2Activity extends ActionBarActivity {
         super.onDestroy();
 
           unregisterReceiver(bReceiver);
-        // if(myThreadConnectBTdevice!=null){
-        //     myThreadConnectBTdevice.cancel();
-        // }
+
+
 
     }
 
