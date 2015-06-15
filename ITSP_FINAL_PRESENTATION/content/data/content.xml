@@ -1,0 +1,669 @@
+<zuiprezi>
+  <version>7</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-17137.84857527923" y="-10066.001594907739" width="34275.69715055846" height="20132.003189815478"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <spellcheck active="false"/>
+      <mode type="normal"/>
+    </settings>
+    <object id="4_95982358" type="button" x="1.9143960842250662e-13" y="-3.19066014037511e-13" r="0" s="32.05732992008834" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1070.3204291044776</w>
+        <h>629.1213569641113</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>creativity</parentTemplate>
+      </meta>
+    </object>
+    <object id="41_95982358" type="image" x="-4014.845530442304" y="7111.78638673812" r="0" s="5.219791899244057">
+      <source w="1195" h="741">2114764381<url>2114764381.png</url></source>
+      <sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fmedia%2F2%2Ff%2F7%2Feb467e15b8c222424aea0b12230975395ef39.png</sourceUrl>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>creativity</parentTemplate>
+      </meta>
+    <resource><id>2114764381</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/f/7/eb467e15b8c222424aea0b12230975395ef39.png</url></resource></object>
+    <object id="50_95982358" type="shape" x="-4304.476026841431" y="-2487.0721594165375" r="42.63808485129534" s="16.79220499693906" class="line3">
+      <geom type="arrow">
+        <sp>64.69121087104536 8.162878338872165</sp>
+        <ep>-64.69121087104537 8.162878338872144</ep>
+        <b>16.32575667774431</b>
+        <t>5</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>creativity</parentTemplate>
+      </meta>
+    </object>
+    <object id="51_95982358" type="shape" x="1259.358589062491" y="-1574.741822734767" r="-36.19369663667335" s="16.79220499693906" class="line3">
+      <geom type="arrow">
+        <sp>-48.276105281626 5.239698474156967</sp>
+        <ep>48.276105281626 5.239698474156967</ep>
+        <b>-10.479396948313934</b>
+        <t>5</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>creativity</parentTemplate>
+      </meta>
+    </object>
+    <object id="52_95982358" type="shape" x="2219.43433850028" y="321.31361588524055" r="16.758958417180875" s="16.792204996939066" class="line3">
+      <geom type="arrow">
+        <sp>-69.3012213715813 10.593808888699954</sp>
+        <ep>69.3012213715813 10.593808888699954</ep>
+        <b>-21.187617777399907</b>
+        <t>5</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>creativity</parentTemplate>
+      </meta>
+    </object>
+    <object id="13_95982358" type="shape" x="-5398.3906570189665" y="545.5921183023231" r="-21.68067400230491" s="12.098489197993153" class="line3">
+      <geom type="arrow">
+        <sp>64.1047888375167 10.93847106999856</sp>
+        <ep>-64.10478883751671 10.938471069998553</ep>
+        <b>21.876942139997112</b>
+        <t>5</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>creativity</parentTemplate>
+      </meta>
+    </object>
+    <object id="15_95982358" type="button" x="-1764.038837627534" y="472.9112544532653" r="0" s="5.9770064512869805" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>creativity</parentTemplate>
+      </meta>
+    </object>
+    <object id="16_95982358" type="text" x="-1784.9915880195397" y="-722.594809300119" r="-1.601727615887786e-31" s="13.176745487627429" class="strong">
+      <height>29.16</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[FoundYou Chip]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="17_95982358" type="text" x="-1781.7070058101365" y="619.1876008637232" r="-2.7759820227195356e-31" s="7.602915639338769" class="body">
+      <height>116.64</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Shruti Hiray]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Himani]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Charvi Vitthal]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Shraddha Patare]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="18_95982358" type="button" x="-7073.738958619662" y="-4154.618328717994" r="0" s="4.132478744932244" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>creativity</parentTemplate>
+      </meta>
+    </object>
+    <object id="19_95982358" type="text" x="-7088.225607805751" y="-4981.186517687355" r="-1.6017276158877856e-31" s="9.110349988542737" class="strong">
+      <height>29.16</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Why this?]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="20_95982358" type="text" x="-6956.834571241591" y="-3864.3312181680735" r="-2.775982022719536e-31" s="5.734529475366434" class="body">
+      <height>291.6</height>
+      <width>415.76102209299216</width>
+      <p>
+        <text><![CDATA[ Life's little inconveniences add up: the average person misplaces items 3,000 times a year, and then spends another 60 hours a year searching for them. All told, our misplaced stuff adds up to a lot of rupess anually.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Simple solutions, applied in a new way, can have powerful results and thus, can make a happier, more efficient world. ]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="21_95982358" type="button" x="3702.050842369945" y="-2589.4395949246536" r="0" s="3.8634920298598354" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>creativity</parentTemplate>
+      </meta>
+    </object>
+    <object id="23_95982358" type="text" x="3652.130271301129" y="-2481.4242089502673" r="-2.7759820227195356e-31" s="4.9144675040391155" class="body">
+      <height>233.28</height>
+      <width>390.9237784827681</width>
+      <p>
+        <text><![CDATA[As they say, there is always some scope for improvement ; the chip can be made more compact, therefore making it more handy and user friendly. ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[More thought can be given to use battery effeciently.]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="28_95982358" type="button" x="4259.294505685056" y="1688.9722395250997" r="0" s="2.6953376248621423" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>creativity</parentTemplate>
+      </meta>
+    </object>
+    <object id="29_95982358" type="text" x="4261.343941975787" y="1250.1629716203802" r="-1.6017276158877867e-31" s="5.942067852108025" class="strong">
+      <height>29.16</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[THANK YOU !]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="30_95982358" type="text" x="4251.3270258348875" y="1654.993685529142" r="-2.7759820227195356e-31" s="4.799960422952223" class="body">
+      <height>58.32</height>
+      <width>390.9237784827681</width>
+      <p>
+        <text><![CDATA[                  Questions and/or]]></text>
+      </p>
+      <p>
+        <text><![CDATA[          suggestions are  welcome :)]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="32_95982358" type="button" x="-6722.208899667352" y="1721.564090515714" r="0" s="2.0128124834908356" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>creativity</parentTemplate>
+      </meta>
+    </object>
+    <object id="33_95982358" type="text" x="-6729.264933134306" y="1318.96631036882" r="-1.6017276158877867e-31" s="4.437391531268497" class="strong">
+      <height>29.16</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[About The Project]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="34_95982358" type="text" x="-6685.997453674569" y="1957.1316243637896" r="-2.775982022719536e-31" s="2.5603525166839423" class="body">
+      <height>320.76000000000005</height>
+      <width>411.6356373760285</width>
+      <p>
+        <text><![CDATA[      ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[       FoundYou Chip can be stuck or tagged to some object which we think we can lose. When we are not able to find the object, we open the app in our mobiles and it shows the signal of how near or far the object is . When "Find" button is pressed in the app , the chip will start ringing so that we can follow the sound and pick up the object.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="35_95982358" type="text" x="-5199.023221955677" y="6908.890539639317" r="0" s="58.95643442485807" class="head">
+      <height>28.8</height>
+      <width>331.1008920616313</width>
+      <p align="center">
+        <text><![CDATA[Itsp Final presentation]]></text>
+      </p>
+    </object>
+    <object id="0" type="text" x="-1724.8224506239856" y="-146.6445554320736" r="0" s="8.363207203272646" class="strong">
+      <height>29.16</height>
+      <width>-125.808</width>
+      <p>
+        <text><![CDATA[Team id : 68]]></text>
+      </p>
+    </object>
+    <object id="0_147548350" type="text" x="-6569.938686976137" y="1491.498714351364" r="0" s="2.5603525166839423" class="strong">
+      <height>29.16</height>
+      <width>385.23998468615105</width>
+      <p>
+        <text><![CDATA[Device to find lost objects]]></text>
+      </p>
+    </object>
+    <object id="0_147653854" type="text" x="3765.0858078554206" y="-3451.8770813196675" r="0" s="8.519727252013883" class="strong">
+      <height>29.16</height>
+      <width>-117.12</width>
+      <p>
+        <text><![CDATA[What next?]]></text>
+      </p>
+    </object>
+    <object id="1_147548350" type="button" x="4210.45" y="-1727.35" r="0" s="0.8135053064577098" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="2_147548350" type="text" x="4240.600000000007" y="-1906.2399999999998" r="0" s="2" class="strong">
+      <height>29.16</height>
+      <width>199.27138160978052</width>
+      <p>
+        <text><![CDATA[Broadscale Vision]]></text>
+      </p>
+    </object>
+    <object id="3_147548350" type="text" x="4240.2" y="-1697.15" r="0" s="1.0036323427097875" class="body">
+      <height>204.12</height>
+      <width>552</width>
+      <p>
+        <text><![CDATA[We can make the app to be a large lost and]]></text>
+      </p>
+      <p>
+        <text><![CDATA[found network. If the user was not successful to find the object using the chip , we mark the object with the chip as lost on the app, the other users who are in the nearby area of lost chip will then be able to start]]></text>
+      </p>
+      <p>
+        <text><![CDATA[seeing this chip marked lost and help find the object with the chip and return to the user.]]></text>
+      </p>
+    </object>
+  </zui-table>
+  <background>
+    <layer depth="8.561784102947659" fadescale="0.2569557902356569">
+      <object id="background2114773093" type="image" x="-510.4859911833674" y="350.31381306710546" r="0" s="15.7183353854391">
+        <source w="3000" h="1911">2114773093<url>2114773093.png</url></source>
+        <sourceUrl>_Creativity%20(2).png</sourceUrl>
+      <resource><id>2114773093</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/5/4/1453418ad48f763b46ad44308ba029ee48cec.png</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="4_95982358"/>
+    </s>
+    <s>
+      <eagle o="15_95982358"/>
+    </s>
+    <s>
+      <eagle o="32_95982358"/>
+    </s>
+    <s>
+      <eagle o="18_95982358"/>
+    </s>
+    <s>
+      <eagle o="21_95982358"/>
+    </s>
+    <s>
+      <eagle o="1_147548350"/>
+    </s>
+    <s>
+      <eagle o="28_95982358"/>
+    </s>
+    <s>
+      <eagle o="4_95982358"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Cabin-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('ComicZineOT-Regular.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: normal;
+	font-family: ComicZineOT-Regular;
+}
+
+@font-face
+{
+	src: url('Cabin-Bold.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Arimo-Italic.keg');
+	fontFamily: undefined;
+	font-class: undefined;
+	font-style: italic;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Cabin-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Cabin-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Arimo-Regular.keg');
+	font-style: normal;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+.line1
+{
+	color: #b27b9e;
+	gradEndColor: #b27b9e;
+	gradStartColor: #b27b9e;
+}
+
+.line2
+{
+	color: #f2b477;
+	gradEndColor: #f2b477;
+	gradStartColor: #f2b477;
+}
+
+.line3
+{
+	color: #ee8ea0;
+	gradEndColor: #ee8ea0;
+	gradStartColor: #ee8ea0;
+}
+
+.line4
+{
+	color: #beda87;
+	gradEndColor: #beda87;
+	gradStartColor: #beda87;
+}
+
+.line5
+{
+	color: #75beb0;
+	gradEndColor: #75beb0;
+	gradStartColor: #75beb0;
+}
+
+.poly1
+{
+	color: #f4f4ef;
+	gradEndColor: #b27b9e;
+	gradStartColor: #b27b9e;
+}
+
+.poly2
+{
+	color: #f4f4ef;
+	gradEndColor: #f2b477;
+	gradStartColor: #f2b477;
+}
+
+.poly3
+{
+	color: #f4f4ef;
+	gradEndColor: #ee8ea0;
+	gradStartColor: #ee8ea0;
+}
+
+.poly4
+{
+	color: #f4f4ef;
+	gradEndColor: #beda87;
+	gradStartColor: #beda87;
+}
+
+.poly5
+{
+	color: #f4f4ef;
+	gradEndColor: #75beb0;
+	gradStartColor: #75beb0;
+}
+
+Background
+{
+	gradEnd: #f4f4ef;
+	gradStart: #f4f4ef;
+}
+
+Grid
+{
+	color: #b3b3af;
+}
+
+ZArrow
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	thickness: 5;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #fff;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	borderColor: #318bff;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #b27b9e;
+	gradStartAlpha: 1;
+	gradStartColor: #b27b9e;
+	padding: 1.03;
+	thickness: 5;
+}
+
+ZFrame.circle
+{
+	borderAlpha: 0;
+	borderColor: #ed145b;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #ee4e6e;
+	gradStartAlpha: 1;
+	gradStartColor: #ee4e6e;
+	padding: 1.03;
+	thickness: 5;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: .7;
+	gradEndColor: #beda87;
+	gradStartAlpha: .8;
+	gradStartColor: #beda87;
+	padding: 1.03;
+	radius: 1;
+	thickness: 3;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #000;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.8;
+	background-color: #75beb0;
+	background-padding: 6;
+}
+
+ZLabel.head
+{
+	color: #222;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.8;
+	background-color: #ee8ea0;
+	background-padding: 6;
+}
+
+ZLabel.strong
+{
+	color: #ee4e6e;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.8;
+	background-color: #f2b477;
+	background-padding: 6;
+}
+
+ZLine
+{
+	color: #000;
+}
+
+ZMarker
+{
+	alpha: .45;
+	color: #7c7c8c;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #333;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #333;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #333;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>50dabe86</hash>
+<sync><oid>hsy4bujap_28</oid><title>itsp-final-presentation</title><hash>50dabe86</hash></sync><config>Hdk87vlWJL39QTa8t5+30AWbXChnniyJnVkGVLtBj1MdorXjUP5hWQ39Ip58GFnBtw+ffd/EG/JIRgngfrmX/d9N/sBpaboxndsfZ2XF1hUUV9KHIOovYoC8DRqtHtMh/w3A2XS4B8DsvrOd1PsgxYkXu3ljBJH3rhoxlLQ6yfiWG9WaCV8WyZBw3I8UhcigAcdVJypNLUSP05WrpUGl5dnOrMT3qAWUkE9LEkrLsNUo4QJ5xY+e3FQZZyXt6G/jcXaUS0zCCtPTfNHJFKdRTw9+w+VBphVXEU7EyJ6BB/DSTgWGhmEU7CtsL6zhZSzxGogd4Id53HvgKgVSjb2TgQ==</config></zuiprezi>
