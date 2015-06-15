@@ -1,0 +1,705 @@
+<zuiprezi>
+  <version>7</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-26852.604089162996" y="-15772.012128689077" width="53705.20817832599" height="31544.024257378154"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <spellcheck active="false"/>
+      <mode type="normal"/>
+    </settings>
+    <object id="4_95982358" type="button" x="2.999590053193248e-13" y="-4.99931675532208e-13" r="0" s="50.22933798945566" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1070.3204291044776</w>
+        <h>629.1213569641113</h>
+      </size>
+      <meta>
+        <parentTemplate>creativity</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="41_95982358" type="image" x="-6290.699619298991" y="11143.17140631325" r="0" s="8.17868151200753">
+      <source w="1195" h="741">2114764381<url>2114764381.png</url></source>
+      <sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fmedia%2F2%2Ff%2F7%2Feb467e15b8c222424aea0b12230975395ef39.png</sourceUrl>
+      <meta>
+        <parentTemplate>creativity</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    <resource><id>2114764381</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/f/7/eb467e15b8c222424aea0b12230975395ef39.png</url></resource></object>
+    <object id="50_95982358" type="shape" x="-6744.509968818127" y="-3896.893110277924" r="42.63808485129534" s="26.311029099492576" class="line3">
+      <geom type="arrow">
+        <sp>64.69121087104536 8.162878338872165</sp>
+        <ep>-64.69121087104537 8.162878338872144</ep>
+        <b>16.32575667774431</b>
+        <t>5</t>
+      </geom>
+      <meta>
+        <parentTemplate>creativity</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="51_95982358" type="shape" x="1973.2382072252617" y="-2467.399482659662" r="-36.193696636673344" s="26.31102909949257" class="line3">
+      <geom type="arrow">
+        <sp>-48.276105281626 5.239698474156967</sp>
+        <ep>48.276105281626 5.239698474156967</ep>
+        <b>-10.479396948313934</b>
+        <t>5</t>
+      </geom>
+      <meta>
+        <parentTemplate>creativity</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="52_95982358" type="shape" x="3477.542197426631" y="503.4533522643859" r="16.75895841718088" s="26.311029099492576" class="line3">
+      <geom type="arrow">
+        <sp>-69.3012213715813 10.593808888699954</sp>
+        <ep>69.3012213715813 10.593808888699954</ep>
+        <b>-21.187617777399907</b>
+        <t>5</t>
+      </geom>
+      <meta>
+        <parentTemplate>creativity</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="13_95982358" type="shape" x="-8458.520706074389" y="854.8662968158685" r="-21.68067400230491" s="18.956635022399947" class="line3">
+      <geom type="arrow">
+        <sp>64.1047888375167 10.93847106999856</sp>
+        <ep>-64.10478883751671 10.938471069998553</ep>
+        <b>21.876942139997112</b>
+        <t>5</t>
+      </geom>
+      <meta>
+        <parentTemplate>creativity</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="15_95982358" type="button" x="-2764.0013445472787" y="740.9855810875052" r="0" s="9.365130469544212" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>creativity</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="16_95982358" type="text" x="-2796.8313645106464" y="-1132.204678188679" r="-1.601727615887786e-31" s="20.646111337062" class="strong">
+      <height>29.16</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[FoundYou Chip]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="17_95982358" type="text" x="-2791.6848850514543" y="970.1800917354258" r="-2.775982022719535e-31" s="11.912702034312565" class="body">
+      <height>116.64</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Shruti Hiray]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Himani]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Charvi Vitthal]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Shraddha Patare]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="18_95982358" type="button" x="-11083.556424923489" y="-6509.70398253893" r="0" s="6.47501436117332" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>creativity</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="19_95982358" type="text" x="-11106.254971562168" y="-7804.820358062694" r="-1.6017276158877856e-31" s="14.27464014992692" class="strong">
+      <height>29.16</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Why this?]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="20_95982358" type="text" x="-10900.38365287101" y="-6054.864810775674" r="-2.775982022719536e-31" s="8.985203070458423" class="body">
+      <height>291.6</height>
+      <width>415.76102209299216</width>
+      <p>
+        <text><![CDATA[ Life's little inconveniences add up: the average person misplaces items 3,000 times a year, and then spends another 60 hours a year searching for them. All told, our misplaced stuff adds up to a lot of rupess anually.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Simple solutions, applied in a new way, can have powerful results and thus, can make a happier, more efficient world. ]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="21_95982358" type="button" x="5800.594231618294" y="-4057.2885184441193" r="0" s="6.053549920443998" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>creativity</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="23_95982358" type="text" x="5722.375701157624" y="-3888.043564366734" r="-2.7759820227195356e-31" s="7.700281025085978" class="body">
+      <height>233.28</height>
+      <width>390.9237784827681</width>
+      <p>
+        <text><![CDATA[As they say, there is always some scope for improvement ; the chip can be made more compact, therefore making it more handy and user friendly. ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[More thought can be given to use battery effeciently.]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="28_95982358" type="button" x="6673.716864629521" y="2646.3825179885816" r="0" s="4.223215872699984" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>creativity</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="29_95982358" type="text" x="6676.928043738686" y="1958.829964939553" r="-1.6017276158877867e-31" s="9.31038658689982" class="strong">
+      <height>29.16</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[THANK YOU !]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="30_95982358" type="text" x="6661.2329416292005" y="2593.1428914410685" r="-2.775982022719536e-31" s="7.520864495623387" class="body">
+      <height>58.32</height>
+      <width>390.9237784827681</width>
+      <p>
+        <text><![CDATA[                  Questions and/or]]></text>
+      </p>
+      <p>
+        <text><![CDATA[          suggestions are  welcome :)]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="32_95982358" type="button" x="-10532.75814607169" y="2697.4493754963773" r="0" s="3.153794741941446" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>creativity</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="33_95982358" type="text" x="-10543.813960475449" y="2066.635142894588" r="-1.6017276158877867e-31" s="6.952769914750881" class="strong">
+      <height>29.16</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[About The Project]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="7_147548350" type="image" x="-11236.4" y="2431.7999999999997" r="0" s="0.17902834063006992">
+      <source w="720" h="1280">3553907477<url>3553907477.png</url></source>
+      <sourceUrl>Screenshot_2015-06-14-03-25-32.png</sourceUrl>
+    <resource><id>3553907477</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/3/7/03ed18327f2a2a92a96d8ac149c385f2fee0a.png</url></resource></object>
+    <object id="34_95982358" type="text" x="-10476.019891064414" y="3066.5506483251816" r="-2.775982022719536e-31" s="4.0117131480773285" class="body">
+      <height>320.76000000000005</height>
+      <width>411.6356373760285</width>
+      <p>
+        <text><![CDATA[      ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[       FoundYou Chip can be stuck or tagged to some object which we think we can lose. When we are not able to find the object, we open the app in our mobiles and it shows the signal of how near or far the object is . When "Find" button is pressed in the app , the chip will start ringing so that we can follow the sound and pick up the object.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="35_95982358" type="text" x="-8146.139908770069" y="10825.262082424224" r="0" s="92.37646050876135" class="head">
+      <height>28.8</height>
+      <width>331.1008920616313</width>
+      <p align="center">
+        <text><![CDATA[Itsp Final presentation 2015]]></text>
+      </p>
+    </object>
+    <object id="0" type="text" x="-2702.554768602344" y="-229.77144252102423" r="0" s="13.103972237743818" class="strong">
+      <height>29.16</height>
+      <width>-125.808</width>
+      <p>
+        <text><![CDATA[Team id : 68]]></text>
+      </p>
+    </object>
+    <object id="0_147548350" type="text" x="-10294.172087967068" y="2336.9692117448435" r="0" s="4.0117131480773285" class="strong">
+      <height>29.16</height>
+      <width>385.23998468615105</width>
+      <p>
+        <text><![CDATA[Device to find lost objects]]></text>
+      </p>
+    </object>
+    <object id="0_147653854" type="text" x="5899.36117803636" y="-5408.607050177668" r="0" s="13.349217192640175" class="strong">
+      <height>29.16</height>
+      <width>-117.12</width>
+      <p>
+        <text><![CDATA[What next?]]></text>
+      </p>
+    </object>
+    <object id="1_147548350" type="button" x="6597.184377641416" y="-2706.515083831633" r="0" s="1.27464867149383" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="2_147548350" type="text" x="6644.425197265431" y="-2986.8106136007254" r="0" s="3.1337193780434" class="strong">
+      <height>29.16</height>
+      <width>199.27138160978052</width>
+      <p>
+        <text><![CDATA[Broadscale Vision]]></text>
+      </p>
+    </object>
+    <object id="3_147548350" type="text" x="6643.798453389812" y="-2659.195921223178" r="0" s="1.5725510603903778" class="body">
+      <height>204.12</height>
+      <width>552</width>
+      <p>
+        <text><![CDATA[We can make the app to be a large lost and]]></text>
+      </p>
+      <p>
+        <text><![CDATA[found network. If the user was not successful to find the object using the chip , we mark the object with the chip as lost on the app, the other users who are in the nearby area of lost chip will then be able to start]]></text>
+      </p>
+      <p>
+        <text><![CDATA[seeing this chip marked lost and help find the object with the chip and return to the user.]]></text>
+      </p>
+    </object>
+    <object id="4_147548350" type="button" x="-11398.35" y="2416.1" r="0" s="0.6640698979624579" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="6_147548350" type="image" x="-11369.6" y="2246.65" r="0" s="0.08293755510423255">
+      <source w="1800" h="1350">3553904561<url>3553904561.jpg</url></source>
+      <sourceUrl>IMG_20150615_230202.jpg</sourceUrl>
+    <resource><id>3553904561</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/7/9/0314aab41592946dc370155b34434c18a7434.jpg</url></resource></object>
+    <object id="5_147548350" type="text" x="-11481" y="2281.35" r="0" s="1.2550972803765068" class="strong">
+      <height>58.32</height>
+      <width>175.1578818970497</width>
+      <p>
+        <text><![CDATA[PROJECT ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[    PICS]]></text>
+      </p>
+    </object>
+    <object id="8_147548350" type="image" x="-11553.2" y="2431.7999999999997" r="0" s="0.1642668578361922">
+      <source w="720" h="1280">3553917527<url>3553917527.png</url></source>
+      <sourceUrl>Screenshot_2015-06-14-03-20-48.png</sourceUrl>
+    <resource><id>3553917527</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/c/7/df6fa9360341aea5e66b536efb8a337fe2224.png</url></resource></object>
+    <object id="9_147548350" type="image" x="-11402.3" y="2494.5" r="0" s="0.16115538786225267">
+      <source w="720" h="1280">3553924223<url>3553924223.png</url></source>
+      <sourceUrl>Screenshot_2015-06-14-03-25-20.png</sourceUrl>
+    <resource><id>3553924223</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/2/c/4627791f8aa42a1ff8dd29782193bb81080a2.png</url></resource></object>
+  </zui-table>
+  <background>
+    <layer depth="13.415114377015502" fadescale="0.1639941291718931">
+      <object id="background2114773093" type="image" x="-799.8599213955052" y="548.8925922023308" r="0" s="24.628426093967892">
+        <source w="3000" h="1911">2114773093<url>2114773093.png</url></source>
+        <sourceUrl>_Creativity%20(2).png</sourceUrl>
+      <resource><id>2114773093</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/5/4/1453418ad48f763b46ad44308ba029ee48cec.png</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="4_95982358"/>
+    </s>
+    <s>
+      <eagle o="15_95982358"/>
+    </s>
+    <s>
+      <eagle o="32_95982358"/>
+    </s>
+    <s>
+      <eagle o="4_147548350"/>
+    </s>
+    <s>
+      <eagle o="18_95982358"/>
+    </s>
+    <s>
+      <eagle o="21_95982358"/>
+    </s>
+    <s>
+      <eagle o="1_147548350"/>
+    </s>
+    <s>
+      <eagle o="28_95982358"/>
+    </s>
+    <s>
+      <eagle o="4_95982358"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Cabin-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('ComicZineOT-Regular.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: normal;
+	font-family: ComicZineOT-Regular;
+}
+
+@font-face
+{
+	src: url('Cabin-Bold.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Arimo-Italic.keg');
+	fontFamily: undefined;
+	font-class: undefined;
+	font-style: italic;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Cabin-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Cabin-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Arimo-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Regular.keg');
+	font-style: normal;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+.line1
+{
+	color: #b27b9e;
+	gradEndColor: #b27b9e;
+	gradStartColor: #b27b9e;
+}
+
+.line2
+{
+	color: #f2b477;
+	gradEndColor: #f2b477;
+	gradStartColor: #f2b477;
+}
+
+.line3
+{
+	color: #ee8ea0;
+	gradEndColor: #ee8ea0;
+	gradStartColor: #ee8ea0;
+}
+
+.line4
+{
+	color: #beda87;
+	gradEndColor: #beda87;
+	gradStartColor: #beda87;
+}
+
+.line5
+{
+	color: #75beb0;
+	gradEndColor: #75beb0;
+	gradStartColor: #75beb0;
+}
+
+.poly1
+{
+	color: #f4f4ef;
+	gradEndColor: #b27b9e;
+	gradStartColor: #b27b9e;
+}
+
+.poly2
+{
+	color: #f4f4ef;
+	gradEndColor: #f2b477;
+	gradStartColor: #f2b477;
+}
+
+.poly3
+{
+	color: #f4f4ef;
+	gradEndColor: #ee8ea0;
+	gradStartColor: #ee8ea0;
+}
+
+.poly4
+{
+	color: #f4f4ef;
+	gradEndColor: #beda87;
+	gradStartColor: #beda87;
+}
+
+.poly5
+{
+	color: #f4f4ef;
+	gradEndColor: #75beb0;
+	gradStartColor: #75beb0;
+}
+
+Background
+{
+	gradEnd: #f4f4ef;
+	gradStart: #f4f4ef;
+}
+
+Grid
+{
+	color: #b3b3af;
+}
+
+ZArrow
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	thickness: 5;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #fff;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	borderColor: #318bff;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #b27b9e;
+	gradStartAlpha: 1;
+	gradStartColor: #b27b9e;
+	padding: 1.03;
+	thickness: 5;
+}
+
+ZFrame.circle
+{
+	borderAlpha: 0;
+	borderColor: #ed145b;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #ee4e6e;
+	gradStartAlpha: 1;
+	gradStartColor: #ee4e6e;
+	padding: 1.03;
+	thickness: 5;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: .7;
+	gradEndColor: #beda87;
+	gradStartAlpha: .8;
+	gradStartColor: #beda87;
+	padding: 1.03;
+	radius: 1;
+	thickness: 3;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #000;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.8;
+	background-color: #75beb0;
+	background-padding: 6;
+}
+
+ZLabel.head
+{
+	color: #222;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.8;
+	background-color: #ee8ea0;
+	background-padding: 6;
+}
+
+ZLabel.strong
+{
+	color: #ee4e6e;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.8;
+	background-color: #f2b477;
+	background-padding: 6;
+}
+
+ZLine
+{
+	color: #000;
+}
+
+ZMarker
+{
+	alpha: .45;
+	color: #7c7c8c;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #333;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #333;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #333;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>-1af61c23</hash>
+<sync><oid>hsy4bujap_28</oid><title>itsp-final-presentation</title><hash>-1af61c23</hash></sync><config>S1UGlpOeTKmuxy8/bRjcOSjLHZTQH3lqLCHsVYgIqu1teyP4TBC7J4RWe9fmvkdOeOYb9nXIeqkxN1D4d6L95J4pinc/R0V2au4OKBpWYX2wYDAXxYwKXVAa/appDMjOBke2DdE3qrOf5dgurFfqWQGGjFtYF1YNkt4NyNZkp7FxfaUXkpYQR1Hf8J/jyyeQ1UqBLLu+iYckJNLGrmDXmfLX1rDx+w//gU0uWubt6Nv3rsVeILS6EyXOgARC2bBxfT1D9nN1AjKclHmM9aQRnilAWzt+TibxJAJHhxNXeXiXAnJxOUhfDFIEdDLgO6jwgdFYuHPeXd3m4scn4BvW5g==</config></zuiprezi>
